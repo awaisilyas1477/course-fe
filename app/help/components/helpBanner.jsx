@@ -7,16 +7,10 @@ const HelpBanner = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 space-x-1">
           <div className="col-span-6 flex flex-col justify-evenly">
             <h1 className="text-midnightblue text-4xl sm:text-5xl font-semibold text-center lg:text-start lh-120 pt-5 lg:pt-0">
-              How Can We Assist You Even Better?
+              {"How Can We Assist You Even Better?"}
             </h1>
             <h3 className="text-charcoal text-lg font-normal text-center lg:text-start opacity-75 pt-5 lg:pt-0">
-              Welcome to our Help Center! We're here to support you in
-              navigating the world of e-learning and making the most of our
-              cutting-edge solutions. Whether you need guidance on using our
-              web-based platforms, SaaS tools, mobile apps, CRMs, or Generative
-              AI features, we're dedicated to ensuring your journey is seamless
-              and productive. Let us help you stay ahead in this rapidly
-              evolving digital landscape!
+              {"Welcome to our Help Center! We're here to support you in navigating the world of e-learning and making the most of our cutting-edge solutions. Whether you need guidance on using our web-based platforms, SaaS tools, mobile apps, CRMs, or Generative AI features, we're dedicated to ensuring your journey is seamless and productive. Let us help you stay ahead in this rapidly evolving digital landscape!"}
             </h3>
 
             <div className="flex items-center justify-between pt-10 lg:pt-4">
